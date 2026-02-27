@@ -46,6 +46,15 @@ In this project, I performed end-to-end data analysis on coffee sales data:
 - Daily sales trends  
 
 ---
+## 👤 About Me
 
+**Shubham Pandey**  
+Aspiring Data Analyst | Power BI | SQL | Python  
+
+- Strong interest in HR Analytics and Business Intelligence  
+- Actively building real-world analytics projects  
+
+📫 Feel free to connect with me on LinkedIn and review my other projects.
+- LinkedIn Link- www.linkedin.com/in/itzshubhampandey
 
 
